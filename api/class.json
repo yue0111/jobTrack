@@ -1,0 +1,81 @@
+
+{
+  "code": 0,
+  "msg": "",
+  "count": 100,
+  "data": [
+    {
+      "majorName": "网络工程",
+      "cno": "10022",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "counsellor": "李四"
+    },{
+      "majorName": "计算机科学与技术",
+      "cno": "10522",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "counsellor": "李四"
+    },{
+      "majorName": "数学与应用数学",
+      "cno": "10085",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "counsellor": "李四"
+    },{
+      "majorName": "大数据",
+      "cno": "10088",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "counsellor": "李四"
+    },{
+      "majorName": "数字媒体",
+      "cno": "10052",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "counsellor": "李四"
+    },{
+      "majorName": "环境工程",
+      "cno": "10062",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "counsellor": "李四"
+    },{
+      "majorName": "机械工程",
+      "cno": "10012",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "counsellor": "李四"
+    },{
+      "majorName": "材料工程",
+      "cno": "10072",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "counsellor": "李四"
+    },{
+      "majorName": "自动化",
+      "cno": "10032",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "counsellor": "李四"
+    }
+  ]
+}

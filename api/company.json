@@ -1,0 +1,41 @@
+
+{
+  "code": 0,
+  "msg": "",
+  "count": 100,
+  "data": [
+    {
+      "cname": "北京柯蓝科技有限公司",
+      "city": "北京",
+      "trade": "计算机金融",
+      "leader": "刘晓晓",
+      "telephone": "13545678989",
+      "status": "合作中",
+      "job": "JAVA开发"
+    }, {
+      "cname": "山西焦煤有限公司",
+      "city": "太原",
+      "trade": "采矿",
+      "leader": "马晓晓",
+      "telephone": "13768767899",
+      "status": "合作中",
+      "job": "材料分析"
+    },{
+      "cname": "太原工业学院",
+      "city": "太原",
+      "trade": "教育",
+      "leader": "王晓霞",
+      "telephone": "13545678989",
+      "status": "合作中",
+      "job": "数学教师"
+    },{
+      "cname": "清华大学",
+      "city": "北京",
+      "trade": "教育",
+      "leader": "刘宇",
+      "telephone": "13545678989",
+      "status": "合作中",
+      "job": "计算机图形学教师"
+    }
+  ]
+}
